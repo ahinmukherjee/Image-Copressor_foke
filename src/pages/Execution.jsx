@@ -1,11 +1,9 @@
+
 import React from 'react'
 
 const Execution = () => {
   return (
-    
-    <div> Welcome 
-      bk
-    </div>
+    <div> Welcome </div>
   )
 }
 
